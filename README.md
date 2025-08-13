@@ -26,6 +26,7 @@ I built this project **to practice pure programming** — understood as **writin
 npm install   # install dependencies
 npm start     # start the calculator in interactive CLI mode
 npm test      # run the test suite
+```
 
 ## Roadmap
 
